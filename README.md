@@ -8,6 +8,7 @@
 
     `git checkout -b feature/nombre_apellido`
 
+
 - Crear un nuevo fichero en la carpeta "/students" con vuestro nombre "**nombre_apellido.txt**". Añadir el contenido que queráis al fichero.
 
 
