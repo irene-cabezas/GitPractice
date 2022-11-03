@@ -2,7 +2,7 @@
 
 - Hacer clone del repositorio
 
-    `git clone https://github.com/irene-cabezas/GitPractice.git`
+    `git clone https://github.com/MAlexGG/GitPractice.git`
 
 - Crear nueva rama "feature/nombre_apellido"
 
