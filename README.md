@@ -2,7 +2,7 @@
 
 - Hacer clone del repositorio
 
-    `git clone https://github.com/MAlexGG/GitPractice.git`
+    `git clone https://github.com/MAlexGG/GitPractice-FactoriaF5.git`
 
 - Crear nueva rama "feature/nombre_apellido"
 
